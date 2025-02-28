@@ -8,7 +8,6 @@ msdg_project/
 ├── main.py                   # Main script to run the pipeline
 └── requirements.txt          # Dependencies
 
-
 torch>=2.0.0
 torch-geometric>=2.3.0
 numpy>=1.23.0
